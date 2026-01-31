@@ -1,0 +1,28 @@
+Step 2.1 – Task Data Model
+Task ka structure
+
+Har task ke paas ye information hoti hai:
+
+title
+
+description
+
+status (pending / in-progress / done)
+
+priority (low / medium / high)
+
+category
+
+due date
+
+creation time
+
+userId (owner)
+
+ Design decision
+
+Har task sirf ek user se linked hai
+
+userId se ensure hota hai:
+
+Koi user doosre ka task na dekh sake

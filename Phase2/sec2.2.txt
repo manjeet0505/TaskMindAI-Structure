@@ -1,0 +1,20 @@
+Step 2.2 – Task CRUD APIs
+Implemented features
+
+Add task
+
+Edit task
+
+Delete task
+
+Change status
+
+Fetch tasks
+
+ Backend logic
+
+JWT se user identify hota hai
+
+Har query me userId lagta hai
+
+Unauthorized user ko access nahi milta

@@ -1,0 +1,10 @@
+Step 2.3 – Filters & Search
+Backend-driven filters
+
+Status filter
+
+Category filter
+
+Search by title
+
+AI future me isi clean data pe kaam karega.
