@@ -1,0 +1,11 @@
+Maine ek AI-ready SaaS Task Management system banaya hai jisme:
+
+Secure authentication
+
+Multi-user task management
+
+Clean backend architecture
+
+AI integration jo read-only, explainable aur safe hai
+
+AI ko core system ke upar add kiya gaya hai, na ki system ke beech me.

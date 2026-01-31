@@ -1,0 +1,42 @@
+PHASE 1 – AUTHENTICATION SYSTEM
+ Goal
+
+User-specific data ke liye secure authentication banana.
+
+ Kya implement kiya
+
+Signup
+
+Login
+
+Logout
+
+JWT-based authentication
+
+Protected routes (dashboard)
+
+ Kaise kaam karta hai
+
+User signup karta hai
+
+Password bcrypt se hash hota hai
+
+User MongoDB me save hota hai
+
+Login ke time:
+
+Credentials verify hote hain
+
+JWT generate hota hai
+
+JWT httpOnly cookie me store hota hai
+
+ Cookie browser JS se access nahi ho sakti (secure)
+
+ Security decisions (interview point)
+
+JWT localStorage me nahi, cookie me rakha
+
+Backend hi token verify karta hai
+
+Middleware se dashboard protected hai
