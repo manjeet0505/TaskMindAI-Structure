@@ -1,0 +1,16 @@
+PHASE 3 – AI BRAIN (START)
+
+ Yahan sabse important design decision aata hai
+
+ AI ko kaise treat kiya?
+
+ AI ko decision-maker nahi banaya
+ AI ko database write access nahi diya
+
+ AI ko advisor / analyst banaya
+
+ Phase 3 ka goal
+
+User ko batana:
+
+“Aaj tum kis task pe focus karo aur kyun”

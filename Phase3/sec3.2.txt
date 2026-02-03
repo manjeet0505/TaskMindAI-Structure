@@ -1,0 +1,30 @@
+PHASE 3.2 — AI CHAT (DONE – LOGIC WISE)
+ Goal
+
+User AI se task-related questions puch sake.
+
+Examples
+
+What should I work on today?
+
+Which tasks are overdue?
+
+Help me plan my day
+
+ Kya banaya
+
+/api/ai/chat
+
+Task-aware AI chat
+
+AI sirf user ke tasks ke context me jawab deta hai
+
+Natural language response
+
+Read-only assistant
+
+ AI kya nahi karta
+
+Task create/update/delete 
+
+Priority / dueDate change 

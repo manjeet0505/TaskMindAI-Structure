@@ -1,0 +1,58 @@
+STEP 3.1 – AI INSIGHTS (FIRST AI FEATURE)
+AI Insights kya hai?
+
+Ek daily focus assistant jo:
+
+User ke tasks dekhta hai
+
+Priority + due date analyze karta hai
+
+Explain karta hai why something matters
+
+ Flow (simple language)
+
+User “Get AI Insights” button dabata hai
+
+Backend:
+
+JWT se user verify karta hai
+
+MongoDB se user ke tasks read karta hai
+
+Ye data LLM (GPT) ko diya jata hai
+
+AI sirf suggestion JSON return karta hai
+
+UI me user ko dikhaya jata hai
+
+ AI Input me kya jata hai
+
+Aaj ki date
+
+Task titles
+
+Task status
+
+Task priority
+
+Due dates
+
+ AI Output kya deta hai
+
+Short daily summary
+
+Focus tasks + reason
+
+Warnings (overdue / overload)
+
+Productivity tip
+
+-- AI kya nahi karta
+
+Task create 
+
+Task update 
+
+Priority change 
+
+Due date change 
